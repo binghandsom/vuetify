@@ -1,3 +1,8 @@
+<p align="center">
+  为了方便中文用户学习和使用Vuetify创建此wiki
+  大家有意愿贡献文档的都可以进入此项目组（文档组）
+  加入方式：在群（789915655）中@群主 发送自己的github昵称或者邮箱,群主邀请后,登录github进行同意加入即可编辑wiki
+</p>
 
 <p align="center">
   <a href="https://vuetifyjs.com" target="_blank">
